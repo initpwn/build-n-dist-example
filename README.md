@@ -1,4 +1,4 @@
-## Make sure that you've uild-essential
+## Make sure that you've build-essential
 
 ```sudo apt-get install build-essential```
 
@@ -20,7 +20,8 @@ make # Makefile to build the program
 make install # Makefile to install the program  (If you're getting an [* install-am] Error 2 or pocess exited or 
 terminated with Error 2, make sure you've W permissions on /usr/local/bin or /usr/bin) Running with sudo will solve it)
 ```
-## To uninstall, use ``` make uninstall ``` command
+## To uninstall
+use ``` make uninstall ``` 
 
 ## Explanation 
 
