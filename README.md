@@ -1,3 +1,7 @@
+## Make sure that you've uild-essential
+
+```sudo apt-get install build-essential```
+
 ## On the maintainer’s system:
 
 ```
